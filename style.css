@@ -50,10 +50,9 @@ div, travel photos {
 }
 
 div img{
-    height: fit-content;
-    width: fit-content;
     display: inline-block;
-    background-size: cover;
+    inline-size: auto;
+    position: relative;
 }
 
 

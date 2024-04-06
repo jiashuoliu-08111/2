@@ -53,6 +53,7 @@ div img{
     height: fit-content;
     width: fit-content;
     display: inline-block;
+    background-size: cover;
 }
 
 

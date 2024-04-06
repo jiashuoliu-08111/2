@@ -1,7 +1,18 @@
-header h1, h3{
+body {
+    background-color: antiquewhite;
+}
+
+.introduction{
     text-align: center;
     overflow: scroll;
-    
+    box-sizing: content-box;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.contact{
+    text-align: center;
+    position: relative;
 }
 
 content h1, ul{
@@ -15,10 +26,21 @@ content h1, ul{
 ul, hobbies{
     margin-right: 70px;
     margin-bottom: 30px;
+    border-right: 2px solid black;
+    padding-right: 30px;
 }
 
 article p {
     float: right;
     display: contents;
 }
+
+article p strong{
+    text-transform: uppercase;
+}
+
+ol, ul strong{
+    text-transform: uppercase;
+}
+
 

@@ -27,7 +27,7 @@ ul, hobbies{
     margin-right: 70px;
     margin-bottom: 30px;
     border-right: 2px solid black;
-    padding-right: 30px;
+    padding-right: 50px;
 }
 
 article p {
@@ -41,6 +41,12 @@ article p strong{
 
 ol, ul strong{
     text-transform: uppercase;
+}
+
+div, travel photos {
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
 }
 
 

@@ -1,3 +1,10 @@
-h1,header{
+header h1, h3{
+    text-align: center;
+    overflow: scroll;
+    
+}
 
+content h1, ul{
+    text-align: right;
+    
 }

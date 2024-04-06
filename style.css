@@ -49,4 +49,10 @@ div, travel photos {
     box-sizing: border-box;
 }
 
+div img{
+    height: fit-content;
+    width: fit-content;
+    display: inline-block;
+}
+
 

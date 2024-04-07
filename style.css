@@ -43,12 +43,6 @@ ol, ul strong{
     text-transform: uppercase;
 }
 
-div, travel photos {
-    text-align: center;
-    display: block;
-    box-sizing: border-box;
-}
-
 div img{
     display: inline-flex;
     max-width: 20%;
@@ -56,4 +50,27 @@ div img{
     margin:0 5px;
 }
 
+ .introduction-sentense {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#LisbonandMadrid {
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+}
+
+#RomeandVaticanCity {
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+}
+
+#Istanbul {
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+}
 

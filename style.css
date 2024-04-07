@@ -16,7 +16,7 @@ body {
 }
 
 content h1, ul{
-    float: inline-start;
+    float: inline;
     margin-top: 10px;
     margin-right: 30px;
     margin-bottom: 10px;
@@ -24,10 +24,9 @@ content h1, ul{
 }
 
 ul, hobbies{
-    margin-right: 70px;
     margin-bottom: 30px;
-    border-right: 2px solid black;
-    padding-right: 50px;
+    border-bottom: 2px solid black;
+    padding-bottom: 30px;
 }
 
 article p {
@@ -57,19 +56,16 @@ div img{
 }
 
 #LisbonandMadrid {
-    
     display: block;
     box-sizing: border-box;
 }
 
 #RomeandVaticanCity {
-    
     display: block;
     box-sizing: border-box;
 }
 
 #Istanbul {
-    
     display: block;
     box-sizing: border-box;
 }

@@ -44,7 +44,7 @@ ol, ul strong{
 }
 
 div img{
-    display: inline;
+    display: inline-block;
     max-width: 20%;
     max-height: 20%;
     margin:0 5px;
@@ -57,19 +57,19 @@ div img{
 }
 
 #LisbonandMadrid {
-    text-align: center;
+    
     display: block;
     box-sizing: border-box;
 }
 
 #RomeandVaticanCity {
-    text-align: center;
+    
     display: block;
     box-sizing: border-box;
 }
 
 #Istanbul {
-    text-align: center;
+    
     display: block;
     box-sizing: border-box;
 }

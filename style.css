@@ -50,9 +50,10 @@ div, travel photos {
 }
 
 div img{
-    display: inline-block;
-    inline-size: auto;
-    position: relative;
+    display: inline;
+    max-width: 50%;
+    max-height: 50%;
+    margin:0 5px;
 }
 
 

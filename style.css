@@ -50,7 +50,7 @@ div img{
 }
 
 .introduction-sentense {
-    text-align: justify;
+    text-align: left;
     margin-top: 30px;
     padding-bottom: 30px;
 }
@@ -73,7 +73,7 @@ div img{
 .introduction-sentense p strong{
     border-right: 2px solid black;
     padding-right: 70px;
-    height: 1000px;
+    height: 1500px;
     position: absolute;
     right: 50%;
     

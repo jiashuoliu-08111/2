@@ -56,7 +56,7 @@ div img{
 .introduction-sentense {
     text-align: left;
     margin-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 
 #LisbonandMadrid {
@@ -74,12 +74,9 @@ div img{
     box-sizing: border-box;
 }
 
-.introduction-sentense p strong{
-    border-right: 2px solid black;
-    padding-right: 70px;
-    height: 1500px;
-    position: absolute;
-    right: 50%;
+form{
+    text-align: right;
+    display: inline-block;
 }
 
 

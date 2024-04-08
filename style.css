@@ -4,7 +4,6 @@ body {
 
 .introduction{
     text-align: center;
-    overflow: scroll;
     box-sizing: content-box;
     background-color: aliceblue;
     padding: 10px;
@@ -23,7 +22,7 @@ content h1, ul{
     margin-left: auto;  
 }
 
-ul, hobbies{
+#hobbies{
     margin-bottom: 30px;
     border-bottom: 2px solid black;
     padding-bottom: 30px;
@@ -32,6 +31,11 @@ ul, hobbies{
 article p {
     float: right;
     display: contents;
+}
+
+#aboutme{
+    border-bottom:2px solid black;
+    padding-bottom:10px;
 }
 
 article p strong{

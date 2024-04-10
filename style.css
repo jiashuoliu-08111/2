@@ -79,9 +79,23 @@ div img{
 }
 
 form{
-    text-align: right;
+    text-align: start;
     display: inline-block;
+    background-color:whitesmoke;
+    width:100%;
+    border-top:2px solid black;
+    padding-top:20px;
+    padding-bottom:20px;
 }
+
+#ending{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
 
 
     

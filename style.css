@@ -9,7 +9,7 @@ body {
     padding: 10px;
     position:fixed;
     width:100%;
-    z-index: 10;
+    z-index: -0.5;
     opacity: 95%;
 }
 
@@ -19,18 +19,27 @@ body {
     position: relative;
 }
 
-content h1, ul{
+content h1, ol{
     float: inline;
     margin-top: 10px;
     margin-right: 30px;
     margin-bottom: 10px;
     margin-left: auto;  
 }
+#Education{
+    float:inline-start;
+    padding-right: 5em;
+}
+
+#languages{
+    margin-top: 2em;
+}
 
 #hobbies{
     margin-bottom: 30px;
     border-bottom: 2px solid black;
     padding-bottom: 30px;
+    margin-top: 2em;
 }
 
 article p {
@@ -92,6 +101,13 @@ form{
 #ending{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+}
+
+#copyrights{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 40%;
 }
 
 
